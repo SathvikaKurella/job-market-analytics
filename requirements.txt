@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+sqlalchemy==2.0.43
+psycopg2-binary==2.9.7
+pandas==2.2.2
+plotly==5.20.0
+streamlit==1.25.0
+python-dotenv==1.0.0
+lxml==4.9.3
+selenium==4.14.0
+tqdm==4.66.1
